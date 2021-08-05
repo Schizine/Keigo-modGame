@@ -1,0 +1,18 @@
+[1]
+:happy:hey, I think your opinion is right
+:happy:i see how hard you tried to help me...
+[2]
+:happy:I was glad to talk with you
+[3]
+:bf:beep
+:bf:bapboo!
+[4]
+:happy:Thank you very much...
+[5]
+:idk:but, I'm still not sure if my opinion is right
+[6]
+:idk:i see how hard you try to help me..
+[7]
+:bf:beepbo bap
+:idk:sure,i can do another one
+:idk:if you want..

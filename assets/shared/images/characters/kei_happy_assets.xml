@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="keihappy_assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="deffhappy0000" x="20" y="20" width="309" height="759" frameX="-13" frameY="-6" frameWidth="322" frameHeight="765"/>
+	<SubTexture name="deffhappy0001" x="20" y="20" width="309" height="759" frameX="-13" frameY="-6" frameWidth="322" frameHeight="765"/>
+	<SubTexture name="deffhappy0002" x="368" y="20" width="308" height="760" frameX="-12" frameY="-5" frameWidth="322" frameHeight="765"/>
+	<SubTexture name="deffhappy0003" x="368" y="20" width="308" height="760" frameX="-12" frameY="-5" frameWidth="322" frameHeight="765"/>
+	<SubTexture name="deffhappy0004" x="715" y="20" width="308" height="761" frameX="-10" frameY="-4" frameWidth="322" frameHeight="765"/>
+	<SubTexture name="deffhappy0005" x="715" y="20" width="308" height="761" frameX="-10" frameY="-4" frameWidth="322" frameHeight="765"/>
+	<SubTexture name="deffhappy0006" x="1062" y="20" width="308" height="762" frameX="-8" frameY="-3" frameWidth="322" frameHeight="765"/>
+	<SubTexture name="deffhappy0007" x="1062" y="20" width="308" height="762" frameX="-8" frameY="-3" frameWidth="322" frameHeight="765"/>
+	<SubTexture name="deffhappy0008" x="1409" y="20" width="307" height="762" frameX="-6" frameY="-3" frameWidth="322" frameHeight="765"/>
+	<SubTexture name="deffhappy0009" x="1409" y="20" width="307" height="762" frameX="-6" frameY="-3" frameWidth="322" frameHeight="765"/>
+	<SubTexture name="deffhappy0010" x="1755" y="20" width="307" height="763" frameX="-4" frameY="-2" frameWidth="322" frameHeight="765"/>
+	<SubTexture name="deffhappy0011" x="1755" y="20" width="307" height="763" frameX="-4" frameY="-2" frameWidth="322" frameHeight="765"/>
+	<SubTexture name="deffhappy0012" x="2101" y="20" width="307" height="764" frameX="-2" frameY="-1" frameWidth="322" frameHeight="765"/>
+	<SubTexture name="deffhappy0013" x="2101" y="20" width="307" height="764" frameX="-2" frameY="-1" frameWidth="322" frameHeight="765"/>
+	<SubTexture name="deffhappy0014" x="2447" y="20" width="307" height="765" frameX="0" frameY="0" frameWidth="322" frameHeight="765"/>
+	<SubTexture name="dmwnhappy0000" x="2793" y="20" width="304" height="774"/>
+	<SubTexture name="dmwnhappy0001" x="2793" y="20" width="304" height="774"/>
+	<SubTexture name="dmwnhappy0002" x="3136" y="20" width="304" height="772" frameX="0" frameY="-2" frameWidth="304" frameHeight="774"/>
+	<SubTexture name="dmwnhappy0003" x="3136" y="20" width="304" height="772" frameX="0" frameY="-2" frameWidth="304" frameHeight="774"/>
+	<SubTexture name="dmwnhappy0004" x="3479" y="20" width="304" height="769" frameX="0" frameY="-5" frameWidth="304" frameHeight="774"/>
+	<SubTexture name="dmwnhappy0005" x="3479" y="20" width="304" height="769" frameX="0" frameY="-5" frameWidth="304" frameHeight="774"/>
+	<SubTexture name="dmwnhappy0006" x="3479" y="20" width="304" height="769" frameX="0" frameY="-5" frameWidth="304" frameHeight="774"/>
+	<SubTexture name="dmwnhappy0007" x="3479" y="20" width="304" height="769" frameX="0" frameY="-5" frameWidth="304" frameHeight="774"/>
+	<SubTexture name="dmwnhappy0008" x="3479" y="20" width="304" height="769" frameX="0" frameY="-5" frameWidth="304" frameHeight="774"/>
+	<SubTexture name="dmwnhappy0009" x="3479" y="20" width="304" height="769" frameX="0" frameY="-5" frameWidth="304" frameHeight="774"/>
+	<SubTexture name="eeupphappy0000" x="20" y="833" width="301" height="749" frameX="0" frameY="-8" frameWidth="301" frameHeight="757"/>
+	<SubTexture name="eeupphappy0001" x="20" y="833" width="301" height="749" frameX="0" frameY="-8" frameWidth="301" frameHeight="757"/>
+	<SubTexture name="eeupphappy0002" x="360" y="833" width="301" height="753" frameX="0" frameY="-4" frameWidth="301" frameHeight="757"/>
+	<SubTexture name="eeupphappy0003" x="360" y="833" width="301" height="753" frameX="0" frameY="-4" frameWidth="301" frameHeight="757"/>
+	<SubTexture name="eeupphappy0004" x="700" y="833" width="301" height="757"/>
+	<SubTexture name="eeupphappy0005" x="700" y="833" width="301" height="757"/>
+	<SubTexture name="eeupphappy0006" x="700" y="833" width="301" height="757"/>
+	<SubTexture name="eeupphappy0007" x="700" y="833" width="301" height="757"/>
+	<SubTexture name="eeupphappy0008" x="700" y="833" width="301" height="757"/>
+	<SubTexture name="eeupphappy0009" x="700" y="833" width="301" height="757"/>
+	<SubTexture name="leefthappy0000" x="1040" y="833" width="416" height="784" frameX="0" frameY="0" frameWidth="419" frameHeight="784"/>
+	<SubTexture name="leefthappy0001" x="1040" y="833" width="416" height="784" frameX="0" frameY="0" frameWidth="419" frameHeight="784"/>
+	<SubTexture name="leefthappy0002" x="1495" y="833" width="416" height="784" frameX="-2" frameY="0" frameWidth="419" frameHeight="784"/>
+	<SubTexture name="leefthappy0003" x="1495" y="833" width="416" height="784" frameX="-2" frameY="0" frameWidth="419" frameHeight="784"/>
+	<SubTexture name="leefthappy0004" x="1950" y="833" width="415" height="784" frameX="-4" frameY="0" frameWidth="419" frameHeight="784"/>
+	<SubTexture name="leefthappy0005" x="1950" y="833" width="415" height="784" frameX="-4" frameY="0" frameWidth="419" frameHeight="784"/>
+	<SubTexture name="leefthappy0006" x="1950" y="833" width="415" height="784" frameX="-4" frameY="0" frameWidth="419" frameHeight="784"/>
+	<SubTexture name="leefthappy0007" x="1950" y="833" width="415" height="784" frameX="-4" frameY="0" frameWidth="419" frameHeight="784"/>
+	<SubTexture name="leefthappy0008" x="1950" y="833" width="415" height="784" frameX="-4" frameY="0" frameWidth="419" frameHeight="784"/>
+	<SubTexture name="leefthappy0009" x="1950" y="833" width="415" height="784" frameX="-4" frameY="0" frameWidth="419" frameHeight="784"/>
+	<SubTexture name="rigghthappy0000" x="2404" y="833" width="345" height="785"/>
+	<SubTexture name="rigghthappy0001" x="2404" y="833" width="345" height="785"/>
+	<SubTexture name="rigghthappy0002" x="2788" y="833" width="344" height="785" frameX="0" frameY="0" frameWidth="345" frameHeight="785"/>
+	<SubTexture name="rigghthappy0003" x="2788" y="833" width="344" height="785" frameX="0" frameY="0" frameWidth="345" frameHeight="785"/>
+	<SubTexture name="rigghthappy0004" x="3171" y="833" width="343" height="785" frameX="0" frameY="0" frameWidth="345" frameHeight="785"/>
+	<SubTexture name="rigghthappy0005" x="3171" y="833" width="343" height="785" frameX="0" frameY="0" frameWidth="345" frameHeight="785"/>
+	<SubTexture name="rigghthappy0006" x="3171" y="833" width="343" height="785" frameX="0" frameY="0" frameWidth="345" frameHeight="785"/>
+	<SubTexture name="rigghthappy0007" x="3171" y="833" width="343" height="785" frameX="0" frameY="0" frameWidth="345" frameHeight="785"/>
+	<SubTexture name="rigghthappy0008" x="3171" y="833" width="343" height="785" frameX="0" frameY="0" frameWidth="345" frameHeight="785"/>
+	<SubTexture name="rigghthappy0009" x="3171" y="833" width="343" height="785" frameX="0" frameY="0" frameWidth="345" frameHeight="785"/>
+</TextureAtlas>

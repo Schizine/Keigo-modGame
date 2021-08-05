@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="keidia.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Senpai Portrait Enter instance 10000" x="20" y="20" width="307" height="357"/>
+	<SubTexture name="Senpai Portrait Enter instance 10001" x="366" y="20" width="307" height="357"/>
+	<SubTexture name="Senpai Portrait Enter instance 10002" x="20" y="416" width="307" height="357"/>
+	<SubTexture name="Senpai Portrait Enter instance 10003" x="366" y="416" width="307" height="357"/>
+</TextureAtlas>
